@@ -1,0 +1,24 @@
+{
+  "name": "gulp-clean-plumber",
+  "version": "0.0.2",
+  "description": "Prevent pipe breaking caused by errors from gulp plugins",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Vsevolod Strukchinsky",
+    "email": "floatdrop@gmail.com",
+    "url": "https://github.com/floatdrop"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/S-YOU/gulp-clean-plumber.git"
+  },
+  "dependencies": {
+    "through2": "^2"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
